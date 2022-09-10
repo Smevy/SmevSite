@@ -1,0 +1,78 @@
+<title>Smev's Guide</title>
+<ul>
+  <li><a class="active" href="#hacks">Hacks</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#SmevBlog">Smev's Games</a></li>
+  <li><a href="#Home">Home</a></li>
+</ul>
+
+        <body id="b1">
+        <p id="p1">Smevy's Guide</p>
+       <body>
+            <p id="p2">For all these hacks you will have to do is paste into your url bar<br>
+            Don't worry you will not leave the site it will just run the code on the site
+
+</p>
+        <p id="p2">1.For this first hack you will have to paste this<br>
+            into the url bar it will make just about everything editable </p>
+        <input type="text" value="javascript:document.body.contentEditable='true'; document.designMode='on'; void 0
+" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+
+<script>
+function myFunction() {
+  // Get the text field
+  var copyText = document.getElementById("myInput");
+
+  // Select the text field
+  copyText.select();
+  copyText.setSelectionRange(0, 99999); // For mobile devices
+
+  // Copy the text inside the text field
+  navigator.clipboard.writeText(copyText.value);
+  
+  // Alert the copied text
+  alert("Copied the text: " + copyText.value);
+}
+</script>
+            </body>
+        
+
+
+            
+        <style>
+            li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+    #p1{
+        font-family:"Brush Script MT",Cursive;
+            color:white;
+        font-size:40px;
+        text-align:center;
+            }
+       body {
+           background-color:black;
+            }
+        #p2{
+        font-family:"Brush Script MT",Cursive;
+            color:white;
+        font-size:20px;
+        text-align:left;
+            }
+            
+            body {
+                border: 2px solid white;
+            }
+            
