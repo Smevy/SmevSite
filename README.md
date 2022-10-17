@@ -11,5 +11,4 @@ you can use emulatorgames.net
 
 # Rules
 
-Jk there are none but you should make sure the github pages thing it green before you get on if it is wait about 30-45 minutes before
-getting on because that means I am editing code right now and could get kicked off the webstie
+Jk there are none 
