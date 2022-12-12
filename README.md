@@ -1,6 +1,6 @@
 # SmevSite
 
-smevy.github.io/SmevSite/
+smevsite.ga
 
 Site Put together by A middle schooler Yup that sums it up
 Note Website is NOT complete yet and is not in open beta if you would like to sign up for the beta
