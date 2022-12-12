@@ -14,3 +14,4 @@ Quick Note all games used in here are made from emulatorjs and you should check 
 # Rules
 
 Jk there are none 
+(But please don't DDOS me)
